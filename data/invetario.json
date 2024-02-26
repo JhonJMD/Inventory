@@ -1,0 +1,38 @@
+{
+    "proveedores": {
+        "124": {
+            "nit": "124",
+            "nombrePro": "asfdafa",
+            "tipo": "fafasf",
+            "direccion": {
+                "ciudad": "asfasfa",
+                "ubicacion": "fasfasf",
+                "longitud": 1231243.0,
+                "latitud": 123123.0
+            }
+        },
+        "123": {
+            "nit": "123",
+            "nombrePro": "JJ",
+            "tipo": "Natrural",
+            "direccion": {
+                "ciudad": "asdfasf",
+                "ubicacion": "asfasfa",
+                "longitud": 123132.0,
+                "latitud": 1231231.0
+            }
+        },
+        "125": {
+            "nit": "125",
+            "nombrePro": "safdaf",
+            "tipo": "asfasfa",
+            "direccion": {
+                "ciudad": "sfasfdasf",
+                "ubicacion": "asfafds",
+                "longitud": 123123.0,
+                "latitud": 1231231.0
+            }
+        }
+    },
+    "productos": {}
+}

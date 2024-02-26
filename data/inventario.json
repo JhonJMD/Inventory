@@ -1,0 +1,94 @@
+{
+    "proveedores": {
+        "124": {
+            "nit": "124",
+            "nombrePro": "asfdafa",
+            "tipo": "fafasf",
+            "direccion": {
+                "ciudad": "asfasfa",
+                "ubicacion": "fasfasf",
+                "longitud": 1231243.0,
+                "latitud": 123123.0
+            }
+        },
+        "125": {
+            "nit": "125",
+            "nombrePro": "safdaf",
+            "tipo": "asfasfa",
+            "direccion": {
+                "ciudad": "sfasfdasf",
+                "ubicacion": "asfafds",
+                "longitud": 123123.0,
+                "latitud": 1231231.0
+            }
+        },
+        "111": {
+            "nit": "111",
+            "nombrePro": "ASDA",
+            "tipo": "ASDASD",
+            "direccion": {
+                "ciudad": "ASDASD",
+                "ubicacion": "ASFDA",
+                "longitud": 1231.0,
+                "latitud": 1231.0
+            }
+        },
+        "22": {
+            "nit": "22",
+            "nombrePro": "SAFA",
+            "tipo": "FASDFASD",
+            "direccion": {
+                "ciudad": "FASDFASF",
+                "ubicacion": "ASFASDF",
+                "longitud": 123123.0,
+                "latitud": 123123.0
+            }
+        },
+        "333": {
+            "nit": "333",
+            "nombrePro": "ASDFAF",
+            "tipo": "ADSFASFAS",
+            "direccion": {
+                "ciudad": "FASFASF",
+                "ubicacion": "ASFASF",
+                "longitud": 123123.0,
+                "latitud": 1123123.0
+            }
+        },
+        "66": {
+            "nit": "66",
+            "nombrePro": "adfadsf",
+            "tipo": "asfaf",
+            "direccion": {
+                "ciudad": "asfasf",
+                "ubicacion": "afaf",
+                "longitud": 13241.0,
+                "latitud": 12312.0
+            }
+        },
+        "123": {
+            "nit": "123",
+            "nombrePro": "ff",
+            "tipo": "NATURAL",
+            "direccion": {
+                "ciudad": "BGA",
+                "ubicacion": "CC",
+                "longitud": 123.0,
+                "latitud": 12334.0
+            }
+        }
+    },
+    "productos": {
+        "123": {
+            "codigo": "123",
+            "nombre": "pescado",
+            "stockMax": 20,
+            "stockMin": 1,
+            "stock": 8,
+            "estado": "disponible",
+            "proveedor": [
+                "123"
+            ]
+        }
+    }
+}
